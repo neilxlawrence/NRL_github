@@ -1,0 +1,17 @@
+```{bash}
+git config --global --list
+
+```
+
+```{r setup}
+library(r2d3)
+```
+
+```{d3 data=}
+git config --global --list
+```
+
+```{Rcpp}
+git config --global --list
+```
+
